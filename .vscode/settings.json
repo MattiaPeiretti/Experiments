@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "IBMQ",
+        "Qcircuit",
+        "qubit"
+    ],
+    "python.formatting.provider": "black"
+}
